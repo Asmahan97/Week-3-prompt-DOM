@@ -7,3 +7,7 @@ In this week's workshop, we worked on DOM manipulation and learned how to make a
 This was certainly the most challenging prompt so far and I had some difficulties trying to understand and bridge the gap between having written a function and then creating a feature users could interact with using that function. The discord group came in handy here as the other applicants were able to offer some great advice that helped me figure out the problem in the end. 
 
 This is still an area I need to work on as subsequent prompts related to Dom Manipulation were still a challenge.
+
+# My goal:
+
+My aim with this prompt was to create a 'Password Validator' that accepted passwords with more than five characters and at least one uppercase and one lowercase character. If this was not met, an alert saying 'Password Invalid' would appear on the screen. Otherwise, an alert saying 'Password Valid' would appear. 
